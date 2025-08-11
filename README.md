@@ -2,7 +2,7 @@ Orders-Management
 
 1. Overview
  
-A Java-based application focused on managing orders, developed likely as an academic assignment. The repository follows a structured layout consistent with Spring Boot applications.
+A Java-based application focused on managing orders, developed for an academic assignment. The repository follows a structured layout consistent with Spring Boot applications.
 
 2. Project Structure
 
